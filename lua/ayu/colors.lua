@@ -37,7 +37,8 @@ function colors.generate(mirage)
       colors.selection_inactive = '#323A4C'
       colors.selection_border = '#232A4C'
       colors.guide_active = '#576070'
-      colors.guide_normal = '#383E4C'
+      colors.guide_normal = '#9e9e9e' --#ffe6a1' --#'#383E4C'
+      colors.active_line_number = '#ff4d4a'
 
       colors.vcs_added = '#A6CC70'
       colors.vcs_modified = '#77A8D9'
